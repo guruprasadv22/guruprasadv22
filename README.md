@@ -4,24 +4,40 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&multiline=true&lines=Welcome+to;Guru's+GitHub+page)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-
-
-<i>Now that you've finally discovered my Github profile, get ready for a heavy joke</i><br>
+<br>
+<br>
+<i>Now that you've finally discovered my Github profile, get ready for a heavy joke</i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is short, use Python."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<b><i align="center">Thought : "Life is short, use Python."</i></b> 
 </p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasadv22" alt="guruprasadv22" /></a> </p>
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guruprasad-v-970098170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guruprasad-v-970098170/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/r18cs155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="r18cs155" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasadv22&show_icons=true&locale=en&layout=compact" alt="guruprasadv22" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasadv22&show_icons=true&locale=en" alt="guruprasadv22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasadv22&" alt="guruprasadv22" /></p>
+
+ 
 Ask me anything <a href="https://github.com/guruprasadv22/guruprasadv22/issues/new"><b>here</b></a><br>
 or <a href="mailto:guruprasadv22@gmail.com"><b>email</b></a> me
 
