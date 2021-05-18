@@ -14,9 +14,8 @@
 
 <b><i align="center">Thought : "Life is short, use Python."</i></b> 
 </p>
-<br>
  
-Ask me anything <a href="https://github.com/guruprasadv22/guruprasadv22/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/guruprasadv22/guruprasadv22/issues/new"><b>here</b></a>
 or <a href="mailto:guruprasadv22@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
