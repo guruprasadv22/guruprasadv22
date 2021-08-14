@@ -18,9 +18,15 @@
 Ask me anything <a href="https://github.com/guruprasadv22/guruprasadv22/issues/new"><b>here</b></a>
 or <a href="mailto:guruprasadv22@gmail.com"><b>email</b></a> me
 
+Here's my less known and irrelevant stats
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/67230346/activity-summary/5cba9ac55268acec6ee0159479027bace8fc0e89'></iframe>
+
 <i>Happy Coding!</i> 😊
 
 </div>
+
+
 
 <!--
 **guruprasadv22/guruprasadv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
