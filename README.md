@@ -12,7 +12,7 @@
 <br><i>Now that you've finally discovered my Github profile, get ready for a heavy joke</i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-<b><i align="center">Best advice : "Life is short, use Python."</i></b> 
+<b><i align="center">Pro tip : "Life is short, use Python."</i></b> 
 </p>
  
 Ask me anything <a href="https://github.com/guruprasadv22/guruprasadv22/issues/new"><b>here</b></a>
