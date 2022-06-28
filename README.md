@@ -23,6 +23,14 @@ or <a href="mailto:guruprasadv22@gmail.com"><b>email</b></a> me
 
 </div>
 
+<p align="center"> 
+  visit count, just for fun<br>
+  <img src="https://profile-counter.glitch.me/guruprasadv22/count.svg" />
+</p>
+<p align="center">
+  <b>refresh to increase it by 1 🤪</b>
+</p>
+
 <!--
 **guruprasadv22/guruprasadv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
